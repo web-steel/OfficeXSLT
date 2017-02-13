@@ -1,0 +1,142 @@
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="008C6BEF">
+    <w:pPr>
+        <w:pStyle w:val="ConsPlusNonformat"/>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+    <w:bookmarkStart w:id="1" w:name="Par491"/>
+    <w:bookmarkEnd w:id="1"/>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">3. Количество объектов недвижемого имущества </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{TOTAL_COUNT}</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> (единиц), в том числе: зданий (за исключением жилых зданий) - </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{HOUSE_COUNT};</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> сооружений - </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{STRUCTURES_COUNT};</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> передаточных устройств - </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{DEVICES_COUNT};</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> изолированных помещений (за исключением жилых помещений) - </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{FLAT_COUNT};</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> машино-мест - </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">{PARKING_COUNT};</w:t>
+    </w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="008C6BEF">
+    <w:pPr>
+        <w:pStyle w:val="ConsPlusNonformat"/>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+    <w:bookmarkStart w:id="1" w:name="Par491"/>
+    <w:bookmarkEnd w:id="1"/>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">4. Объекты недвижимого имущества: </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t>{EMPTY_TEXT}</w:t>
+    </w:r>
+</w:p>

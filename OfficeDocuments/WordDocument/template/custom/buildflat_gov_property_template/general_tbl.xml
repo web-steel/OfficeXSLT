@@ -1,0 +1,187 @@
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+    <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:autoSpaceDE w:val="0"/>
+        <w:autoSpaceDN w:val="0"/>
+        <w:adjustRightInd w:val="0"/>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+            <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+        </w:rPr>
+    </w:pPr>
+</w:p>
+<w:tbl>
+<w:tblPr>
+    <w:tblW w:w="14534" w:type="dxa"/>
+    <w:tblInd w:w="62" w:type="dxa"/>
+    <w:tblLayout w:type="fixed"/>
+    <w:tblCellMar>
+        <w:top w:w="75" w:type="dxa"/>
+        <w:left w:w="0" w:type="dxa"/>
+        <w:bottom w:w="75" w:type="dxa"/>
+        <w:right w:w="0" w:type="dxa"/>
+    </w:tblCellMar>
+    <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0"
+               w:noVBand="0"/>
+</w:tblPr>
+<w:tblGrid>
+    <w:gridCol w:w="618"/>
+    <w:gridCol w:w="1730"/>
+    <w:gridCol w:w="6000"/>
+    <w:gridCol w:w="4456"/>
+</w:tblGrid>
+<w:tr w:rsidR="00432B2E" w:rsidTr="00AC259E">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="618" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t>N п/п</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1730" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t>ЕГР, УНП</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="6000" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t>Полное наименование подчиненных (входящих в состав) юридических лиц, имущество которых находится в
+                    государственной собственности
+                </w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="4456" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t>Примечание</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+</w:tr>
+{ROWS_TABLE}
+</w:tbl>

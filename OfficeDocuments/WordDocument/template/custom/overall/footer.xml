@@ -1,0 +1,295 @@
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00432B2E">
+    <w:pPr>
+        <w:widowControl w:val="0"/>
+        <w:autoSpaceDE w:val="0"/>
+        <w:autoSpaceDN w:val="0"/>
+        <w:adjustRightInd w:val="0"/>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+            <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+        </w:rPr>
+    </w:pPr>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00AC259E">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>Руководитель _________________</w:t>
+</w:r>
+<w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+    <w:t xml:space="preserve">                                              </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:t xml:space="preserve">                   </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r>
+    <w:t>_________________________</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00AC259E">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+    <w:ind w:left="1416" w:firstLine="708"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>(</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidR="00AC259E">
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">подпись)  </w:t>
+</w:r>
+<w:r>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r>
+    <w:t xml:space="preserve">                     </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>(фамилия, инициалы)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00AC259E">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Главный бухгалтер ________________                     </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+    <w:t xml:space="preserve"> _</w:t>
+</w:r>
+<w:r>
+    <w:t>________________________</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00AC259E">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+    <w:ind w:left="1416" w:firstLine="708"/>
+</w:pPr>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>(</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidR="00AC259E">
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">подпись)  </w:t>
+</w:r>
+<w:r>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r>
+    <w:t xml:space="preserve">                       </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:tab/>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>(фамилия, инициалы)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00D973E0">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+    <w:ind w:left="1416" w:firstLine="708"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>М.П.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00D973E0">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+    <w:ind w:left="11328"/>
+    <w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>{TODAY_DATE}</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00D973E0">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>Исполнитель {USER_CREATER}</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="00D973E0">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>Телефон {PHONE_USER_CREATER}</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00F93148" w:rsidRDefault="000B58DA" w:rsidP="00432B2E">
+<w:pPr>
+    <w:jc w:val="center"/>
+</w:pPr>
+</w:p>

@@ -1,0 +1,70 @@
+<w:p w:rsidR="00376922" w:rsidRPr="0099136F" w:rsidRDefault="00376922" w:rsidP="00376922">
+    <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+            <w:b/>
+            <w:sz w:val="30"/>
+            <w:szCs w:val="30"/>
+        </w:rPr>
+    </w:pPr>
+    <w:r w:rsidRPr="0099136F">
+        <w:rPr>
+            <w:b/>
+            <w:sz w:val="30"/>
+            <w:szCs w:val="30"/>
+        </w:rPr>
+        <w:t>Реестр</w:t>
+    </w:r>
+</w:p>
+<w:p w:rsidR="00376922" w:rsidRPr="002C1DEA" w:rsidRDefault="00376922" w:rsidP="00376922">
+<w:pPr>
+    <w:jc w:val="center"/>
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="002C1DEA">
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:t xml:space="preserve">принятых решений и реализованных сделок по распоряжению государственным недвижимым имуществом </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:t xml:space="preserve">(за исключением жилых помещений) </w:t>
+</w:r>
+<w:r w:rsidRPr="002C1DEA">
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:t xml:space="preserve">организаций Белорусской железной дороги по итогам работы </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:br/>
+</w:r>
+<w:r w:rsidRPr="002C1DEA">
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:t>за</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="30"/>
+        <w:szCs w:val="30"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> период с {DATE_FROM} г. по {DATE_TO} г.</w:t>
+</w:r>
+</w:p>
+{CONTENT}

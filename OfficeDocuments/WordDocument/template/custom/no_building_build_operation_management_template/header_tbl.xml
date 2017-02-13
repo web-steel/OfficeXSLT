@@ -1,0 +1,388 @@
+<w:p w:rsidR="00874348" w:rsidRDefault="00874348" w:rsidP="00874348">
+    <w:pPr>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+</w:p>
+<w:tbl>
+    <w:tblPr>
+        <w:tblW w:w="15167" w:type="auto"/>
+        <w:tblInd w:w="62" w:type="dxa"/>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+            <w:top w:w="75" w:type="dxa"/>
+            <w:left w:w="0" w:type="dxa"/>
+            <w:bottom w:w="75" w:type="dxa"/>
+            <w:right w:w="0" w:type="dxa"/>
+        </w:tblCellMar>
+        <w:tblLook w:val="0000" w:firstRow="0" w:lastRow="0" w:firstColumn="0" w:lastColumn="0" w:noHBand="0"
+                   w:noVBand="0"/>
+    </w:tblPr>
+    <w:tblGrid>
+        <w:gridCol w:w="784"/>
+        <w:gridCol w:w="2551"/>
+        <w:gridCol w:w="1701"/>
+        <w:gridCol w:w="2552"/>
+        <w:gridCol w:w="1479"/>
+        <w:gridCol w:w="1781"/>
+        <w:gridCol w:w="1985"/>
+        <w:gridCol w:w="1904"/>
+    </w:tblGrid>
+    <w:tr w:rsidR="009E3CB8" w:rsidRPr="00AF1CA2" w:rsidTr="009E3CB8">
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="784" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="009E3CB8" w:rsidRDefault="009E3CB8" w:rsidP="001C0FCB">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>N п/п</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="2551" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="009E3CB8" w:rsidRPr="00261AE9" w:rsidRDefault="009E3CB8" w:rsidP="001C0FCB">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Наименование не завершенного строительством капитального строения (за исключением жилых
+                        домов и жилых помещений)
+                    </w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1701" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="009E3CB8" w:rsidRPr="00261AE9" w:rsidRDefault="009E3CB8" w:rsidP="009E3CB8">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Кадастровый номер земельного участка</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="2552" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="009E3CB8" w:rsidRPr="00261AE9" w:rsidRDefault="009E3CB8" w:rsidP="001C0FCB">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">Место </w:t>
+                </w:r>
+                <w:bookmarkStart w:id="3" w:name="_GoBack"/>
+                <w:bookmarkEnd w:id="3"/>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>нахождения,</w:t>
+                </w:r>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve"> не завершенного строительством капитального строения (адрес)</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1479" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="008C071B" w:rsidRPr="008C071B" w:rsidRDefault="008C071B" w:rsidP="008C071B">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Начало строительства (месяц</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                        <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">, </w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>год)</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1781" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="008C071B" w:rsidRPr="00261AE9" w:rsidRDefault="008C071B" w:rsidP="008C071B">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Дата акта консервации</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve"> </w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t> не завершенного строительством капитального строения</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1985" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="008C071B" w:rsidRPr="00261AE9" w:rsidRDefault="008C071B" w:rsidP="008C071B">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Дата технического паспорта</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t xml:space="preserve">  </w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>не завершенного строительством капитального строения</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1904" w:type="dxa"/>
+                <w:tcBorders>
+                    <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                </w:tcBorders>
+                <w:tcMar>
+                    <w:top w:w="102" w:type="dxa"/>
+                    <w:left w:w="62" w:type="dxa"/>
+                    <w:bottom w:w="102" w:type="dxa"/>
+                    <w:right w:w="62" w:type="dxa"/>
+                </w:tcMar>
+                <w:vAlign w:val="center"/>
+            </w:tcPr>
+            <w:p w:rsidR="009E3CB8" w:rsidRPr="00261AE9" w:rsidRDefault="009E3CB8" w:rsidP="001C0FCB">
+                <w:pPr>
+                    <w:widowControl w:val="0"/>
+                    <w:autoSpaceDE w:val="0"/>
+                    <w:autoSpaceDN w:val="0"/>
+                    <w:adjustRightInd w:val="0"/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>Первоначальная (переоцененная) стоимость не завершенного строительством капитального
+                        строения на {TODAY_DATE} г. (
+                    </w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>руб., коп.</w:t>
+                </w:r>
+                <w:r w:rsidRPr="00261AE9">
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>)</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+    </w:tr>

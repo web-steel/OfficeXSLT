@@ -1,0 +1,96 @@
+<w:tr w:rsidR="00376922" w:rsidTr="00AC468C">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="675" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00000000" w:rsidRDefault="00D459DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorHAnsi" w:hAnsiTheme="minorHAnsi"
+                              w:cstheme="minorBidi"/>
+                    <w:sz w:val="22"/>
+                    <w:szCs w:val="22"/>
+                    <w:lang w:eastAsia="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="5087" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="00DB7CE7" w:rsidRDefault="00DB7CE7" w:rsidP="00AC468C">
+            <w:pPr>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+                <w:t>{NAME_TOTAL}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2815" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="0018403F" w:rsidRDefault="00DB7CE7" w:rsidP="00AC468C">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2390" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="0018403F" w:rsidRDefault="00DB7CE7" w:rsidP="00AC468C">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+                <w:t>{TOTAL_SUMM_OST}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1535" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="00DB7CE7" w:rsidRDefault="00DB7CE7" w:rsidP="00AC468C">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r w:rsidRPr="00DB7CE7">
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+                <w:t>{TOTAL_SUMM_COST}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2835" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="0070724C" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+            <w:pPr>
+                <w:jc w:val="center"/>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+</w:tr>

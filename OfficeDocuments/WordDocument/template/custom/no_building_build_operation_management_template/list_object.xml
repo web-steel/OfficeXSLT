@@ -1,0 +1,26 @@
+<w:p w:rsidR="00432B2E" w:rsidRDefault="00432B2E" w:rsidP="008C6BEF">
+    <w:pPr>
+        <w:pStyle w:val="ConsPlusNonformat"/>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+    <w:bookmarkStart w:id="1" w:name="Par491"/>
+    <w:bookmarkEnd w:id="1"/>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">3. Не завершенные строительством капитальные строения: </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t>{EMPTY_TEXT}</w:t>
+    </w:r>
+</w:p>

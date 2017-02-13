@@ -1,0 +1,53 @@
+<w:tr w:rsidR="00CD2081" w:rsidTr="00DC4967">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="14392" w:type="dxa"/>
+            <w:gridSpan w:val="5"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="00CD2081" w:rsidRPr="00CD2081" w:rsidRDefault="00CD2081" w:rsidP="00CD2081">
+            <w:pPr>
+                <w:pStyle w:val="a6"/>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t>Наименование филиала (балансодержателя): </w:t>
+            </w:r>
+            <w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:t> {BALAN_NAME}</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="3" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="3"/>
+        </w:p>
+    </w:tc>
+</w:tr>

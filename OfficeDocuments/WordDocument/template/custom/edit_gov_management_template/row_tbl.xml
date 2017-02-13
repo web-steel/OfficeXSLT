@@ -1,0 +1,272 @@
+<w:tr w:rsidR="005D47E5" w:rsidTr="008D626B">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="784" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:ind w:left="284" w:hanging="284"/>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:adjustRightInd w:val="0"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>{NUM}</w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2268" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>{INV_NUMBER}</w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2551" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>{NAME_OBJECT}</w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2410" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>{ADDRESS}</w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1843" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t></w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="2835" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                    </w:rPr>
+                    <w:t>{WHY_NUM_NAME_DATE}</w:t>
+                </w:r>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="850" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="851" w:type="dxa"/>
+            <w:tcBorders>
+                <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            </w:tcBorders>
+            <w:tcMar>
+                <w:top w:w="102" w:type="dxa"/>
+                <w:left w:w="62" w:type="dxa"/>
+                <w:bottom w:w="102" w:type="dxa"/>
+                <w:right w:w="62" w:type="dxa"/>
+            </w:tcMar>
+            <w:vAlign w:val="center"/>
+        </w:tcPr>
+        <w:p w:rsidR="005D47E5" w:rsidRDefault="005D47E5" w:rsidP="002E49BC">
+            <w:pPr>
+                <w:widowControl w:val="0"/>
+                <w:autoSpaceDE w:val="0"/>
+                <w:autoSpaceDN w:val="0"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+    </w:tc>
+</w:tr>

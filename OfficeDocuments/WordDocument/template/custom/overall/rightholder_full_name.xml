@@ -1,0 +1,126 @@
+<w:p w:rsidR="00432B2E" w:rsidRPr="008C6BEF" w:rsidRDefault="00AC259E" w:rsidP="008C6BEF">
+    <w:pPr>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+    <w:pPr>
+        <w:pStyle w:val="ConsPlusNonformat"/>
+    </w:pPr>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">1.  Полное наименование субъекта Единого реестра </w:t>
+    </w:r>
+    <w:r w:rsidR="00432B2E">
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t>государственного</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00AC259E">
+        <w:t xml:space="preserve"> </w:t>
+    </w:r>
+    <w:r w:rsidR="00432B2E">
+        <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t xml:space="preserve">имущества </w:t>
+    </w:r>
+    <w:r w:rsidR="000B58DA" w:rsidRPr="000B58DA">
+        <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+            <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+        </w:rPr>
+        <w:t>{RIGHT_FULL_NAME}</w:t>
+    </w:r>
+</w:p>
+<w:p w:rsidR="00432B2E" w:rsidRPr="008C6BEF" w:rsidRDefault="00432B2E" w:rsidP="008C6BEF">
+<w:pPr>
+    <w:pStyle w:val="ConsPlusNonformat"/>
+    <w:ind w:firstLine="708"/>
+</w:pPr>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>2. Регистрационный номер в Едином государственном регистре юридических</w:t>
+</w:r>
+<w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">лиц и </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>ин</w:t>
+</w:r>
+<w:r w:rsidR="00AC259E">
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">дивидуальных </w:t>
+</w:r>
+<w:r w:rsidR="00D973E0">
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t xml:space="preserve">предпринимателей, </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>учетный номер плательщика (далее</w:t>
+</w:r>
+<w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>соответственно - ЕГР и УНП) </w:t>
+</w:r>
+<w:r w:rsidR="00AC259E" w:rsidRPr="00AC259E">
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:b/>
+        <w:bCs/>
+        <w:sz w:val="20"/>
+        <w:szCs w:val="20"/>
+        <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+    </w:rPr>
+    <w:t>{RIGHT_UNP}</w:t>
+</w:r>
+</w:p>

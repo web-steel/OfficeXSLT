@@ -1,0 +1,34 @@
+<w:tr w:rsidR="00376922" w:rsidTr="00AC468C">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="15417" w:type="dxa"/>
+            <w:gridSpan w:val="10"/>
+        </w:tcPr>
+        <w:p w:rsidR="00376922" w:rsidRPr="0099136F" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+            <w:r>
+                <w:t xml:space="preserve">{NUM_ROW_TITLE}</w:t>
+            </w:r>
+            <w:r w:rsidR="0011491D">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:t>{NAME_TITLE}:</w:t>
+            </w:r>
+            <w:r w:rsidR="0011491D">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                </w:rPr>
+                <w:t xml:space="preserve">{NAME_TITLE_OBJECT}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+</w:tr>

@@ -1,0 +1,161 @@
+<w:p w:rsidR="00874348" w:rsidRDefault="00874348" w:rsidP="00874348">
+    <w:pPr>
+        <w:ind w:firstLine="708"/>
+    </w:pPr>
+</w:p>
+<w:tbl>
+    <w:tblPr>
+        <w:tblW w:w="15417" w:type="dxa"/>
+        <w:tblBorders>
+            <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+            <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblLook w:val="01E0" w:firstRow="1" w:lastRow="1" w:firstColumn="1" w:lastColumn="1" w:noHBand="0"
+                   w:noVBand="0"/>
+    </w:tblPr>
+    <w:tblGrid>
+        <w:gridCol w:w="675"/>
+        <w:gridCol w:w="5087"/>
+        <w:gridCol w:w="2815"/>
+        <w:gridCol w:w="2390"/>
+        <w:gridCol w:w="1535"/>
+        <w:gridCol w:w="2835"/>
+    </w:tblGrid>
+    <w:tr w:rsidR="00376922" w:rsidTr="00AC468C">
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="675" w:type="dxa"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>№</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>п./п.</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="5087" w:type="dxa"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t xml:space="preserve">Наименование объекта, </w:t>
+                </w:r>
+                <w:r>
+                    <w:br/>
+                    <w:t>инвентарный номер по ЕГРНИ/бух.учету, адрес</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="2831" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>Наименование и дата принятого решения</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="2410" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00DB7CE7">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t xml:space="preserve">Оценочная стоимость объекта на дату выгрузки, </w:t>
+                </w:r>
+                <w:r w:rsidR="00DB7CE7">
+                    <w:t>руб</w:t>
+                </w:r>
+                <w:r>
+                    <w:t xml:space="preserve">. </w:t>
+                </w:r>
+                <w:r w:rsidR="00DB7CE7">
+                    <w:t>коп</w:t>
+                </w:r>
+                <w:r>
+                    <w:t>.</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="1555" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t xml:space="preserve">Стоимость, по которой объект реализован, </w:t>
+                </w:r>
+                <w:r w:rsidR="00DB7CE7">
+                    <w:t>руб</w:t>
+                </w:r>
+                <w:r>
+                    <w:t xml:space="preserve">. </w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00DB7CE7" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>коп</w:t>
+                </w:r>
+                <w:r w:rsidR="00376922">
+                    <w:t>.</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+        <w:tc>
+            <w:tcPr>
+                <w:tcW w:w="2859" w:type="dxa"/>
+                <w:gridSpan w:val="2"/>
+            </w:tcPr>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>Примечание</w:t>
+                </w:r>
+            </w:p>
+            <w:p w:rsidR="00376922" w:rsidRDefault="00376922" w:rsidP="00AC468C">
+                <w:pPr>
+                    <w:jc w:val="center"/>
+                </w:pPr>
+                <w:r>
+                    <w:t>(пояснение по нереализованным сделкам)</w:t>
+                </w:r>
+            </w:p>
+        </w:tc>
+    </w:tr>
